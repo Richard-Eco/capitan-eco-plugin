@@ -1,0 +1,7 @@
+{
+  "name": "capitan-eco",
+  "displayName": "Capitán Eco",
+  "version": "0.1.0",
+  "description": "Capitán Eco, Ecoeficiencia's agent: one skill plus the Eco-OS connector, read as the signed-in person.",
+  "author": { "name": "Ecoeficiencia" }
+}
